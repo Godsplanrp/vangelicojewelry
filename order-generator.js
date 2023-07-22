@@ -9,22 +9,6 @@ const Settings = {
 }
 
 const Menu = {
-	// Combo Items:
-	"Wrap Combos:": {
-		header: true,
-	},
-	"Chicken Wrap Combo": {
-		price: 200,
-		items: ["Chicken Wrap", "Fries", "Soda"],
-	},
-	// Burger Meals:
-	"Burger Meals:": {
-		header: true,
-	},
-	"Heartstopper Meal": {
-		price: 350,
-		items: ["Heartstopper", "Fries", "Soda"],
-	},
 	// Individual Items:
 	"Individual Items:": {
 		header: true,
