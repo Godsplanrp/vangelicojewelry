@@ -25,17 +25,17 @@ const Menu = {
 		price: 220,
 		items: ["Opal T3"],
 	},
-	"Taco": {
-		price: 120,
-		items: ["Taco"],
+	"Citrine T1": {
+		price: 180,
+		items: ["Citrine T1"],
 	},
-	"Bleeder": {
-		price: 230,
-		items: ["Bleeder"],
+	"Citrine T2": {
+		price: 360,
+		items: ["Citrine T2"],
 	},
-	"Simply Burger": {
-		price: 150,
-		items: ["Simply Burger"],
+	"Citrine T3": {
+		price: 720,
+		items: ["Citrine T3"],
 	},
 	"Chicken Wrap": {
 		price: 150,
@@ -86,7 +86,7 @@ const Menu = {
 //}
 };
 const INDIVIDUAL_ITEMS = [
-	"Opal T1", "Opal T2", "Opal T3", "Citrine T1", "Water", "Simply Burger", "Chicken Wrap", "Goat Cheese Wrap", "The Prickly",
+	"Opal T1", "Opal T2", "Opal T3", "Citrine T1", "Citrine T2", "Citrine T3", "Chicken Wrap", "Goat Cheese Wrap", "The Prickly",
 	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee", "Taco", "BS Bag",
 ];
 
