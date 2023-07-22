@@ -85,6 +85,18 @@ const Menu = {
 		price: 1350,
 		items: ["Emerald T3"]
 	},
+	"Diamond T1": {
+		price: 350,
+		items: ["Diamond T2"]
+	},
+	"Diamond T2": {
+		price: 700,
+		items: ["Diamond T2"]
+	},
+	"Diamond T3": {
+		price: 1400,
+		items: ["Diamond T3"]
+	},
 //"10 Pack BurgerBits": {
  //  price: 1375,
  //  max: 1,
@@ -96,6 +108,7 @@ const Menu = {
 const INDIVIDUAL_ITEMS = [
 	"Opal T1", "Opal T2", "Opal T3", "Citrine T1", "Citrine T2", "Citrine T3", "Amethyst T1", "Amethyst T2", "Amethyst T3",
 	"Sapphire T1", "Sapphire T2", "Sapphire T3", "Ruby T1", "Ruby T2", "Ruby T3", "Emerald T1", "Emerald T2", "Emerald T3",
+	"Diamond T1", "Diamond T2", "Diamond T3",
 ];
 
 const buttons = {
