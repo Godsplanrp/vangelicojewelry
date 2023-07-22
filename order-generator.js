@@ -49,17 +49,17 @@ const Menu = {
 		price: 720,
 		items: ["Amethyst T3"],
 	},
-	"Water": {
-		price: 5,
-		items: ["Water"],
+	"Sapphire T1": {
+		price: 270,
+		items: ["Sapphire T1"],
 	},
-	"Soda": {
-		price: 25,
-		items: ["Soda"]
+	"Sapphire T2": {
+		price: 540,
+		items: ["Sapphire T2"]
 	},
-	"Mocha Shake": {
-		price: 150,
-		items: ["Mocha Shake"],
+	"Sapphire T3": {
+		price: 1080,
+		items: ["Sapphire T3"],
 	},
 	"Meteorite Ice Cream": {
 		price: 350,
@@ -87,7 +87,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Opal T1", "Opal T2", "Opal T3", "Citrine T1", "Citrine T2", "Citrine T3", "Amethyst T1", "Amethyst T2", "Amethyst T3",
-	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee", "Taco", "BS Bag",
+	"Sapphire T1", "Sapphire T2", "Sapphire T3", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee", "Taco", "BS Bag",
 ];
 
 const buttons = {
