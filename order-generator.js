@@ -87,7 +87,7 @@ const Menu = {
 	},
 	"Diamond T1": {
 		price: 350,
-		items: ["Diamond T2"]
+		items: ["Diamond T1"]
 	},
 	"Diamond T2": {
 		price: 700,
