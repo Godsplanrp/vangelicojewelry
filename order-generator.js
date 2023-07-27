@@ -97,21 +97,21 @@ const Menu = {
 		price: 1400,
 		items: ["Diamond T3"]
 	},
-	"Gold T1": {
+	"Gold Ore": {
 		price: 150,
-		items: ["Gold T1"]
+		items: ["Gold Ore"]
 	},
-	"Gold T2": {
+	"Gold Bar": {
 		price: 200,
-		items: ["Gold T2"]
+		items: ["Gold Bar"]
 	},
-	"Silver T1": {
+	"Silver Ore": {
 		price: 75,
-		items: ["Silver T1"]
+		items: ["Silver Ore"]
 	},
-	"Silver T2": {
+	"Silver Bar": {
 		price: 100,
-		items: ["Silver T2"]
+		items: ["Silver Bar"]
 	},
 //"10 Pack BurgerBits": {
  //  price: 1375,
@@ -124,7 +124,7 @@ const Menu = {
 const INDIVIDUAL_ITEMS = [
 	"Opal T1", "Opal T2", "Opal T3", "Citrine T1", "Citrine T2", "Citrine T3", "Amethyst T1", "Amethyst T2", "Amethyst T3",
 	"Sapphire T1", "Sapphire T2", "Sapphire T3", "Ruby T1", "Ruby T2", "Ruby T3", "Emerald T1", "Emerald T2", "Emerald T3",
-	"Diamond T1", "Diamond T2", "Diamond T3", "Gold T1", "Gold T2", "Silver T1", "Silver T2",
+	"Diamond T1", "Diamond T2", "Diamond T3", "Gold Ore", "Gold Bar", "Silver Ore", "Silver Bar",
 ];
 
 const buttons = {
